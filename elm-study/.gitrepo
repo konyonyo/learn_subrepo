@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/konyonyo/elm-study.git
 	branch = master
-	commit = f585260adef08140969a4afed00c3154b3878749
-	parent = e9068d0bf4b9a91f6efccd4a6055ada0eb3af3a5
+	commit = b8b3d52b16d3da99e5147a24e670080e53241b06
+	parent = cfb4ed7fc42b15f9e937a5ddff4114c1d88fac3f
 	cmdver = 0.3.1
