@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:konyonyo/elm-study.git
+	branch = develop
+	commit = de6011473bc8cb76f7ce9fb26a78d8ef554ff49c
+	parent = 422ea0a081a5aaaed7d9138cfc98cd415ac0eced
+	cmdver = 0.3.1
