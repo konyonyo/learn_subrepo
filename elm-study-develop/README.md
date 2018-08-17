@@ -27,3 +27,4 @@ $ elm-package install elm-lang/http
 ## いいい
 
 developブランチです。
+developブランチ(subrepo)を変更
